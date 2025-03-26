@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+yfinance
+ta
+tqdm
+jupyter

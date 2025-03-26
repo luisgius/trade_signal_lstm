@@ -1,0 +1,82 @@
+2025-03-26 17:24:51,782 - __main__ - INFO - Downloading and processing data for GOOGL
+2025-03-26 17:24:53,296 - __main__ - ERROR - Data preparation failed: 'tuple' object has no attribute 'lower'
+2025-03-26 17:36:19,987 - __main__ - INFO - Downloading and processing data for GOOGL
+2025-03-26 17:36:20,522 - __main__ - ERROR - Data preparation failed: 'close'
+2025-03-26 17:37:11,653 - __main__ - INFO - Downloading and processing data for GOOGL
+2025-03-26 17:37:12,376 - __main__ - ERROR - Data preparation failed: 'close'
+2025-03-26 17:39:04,825 - __main__ - INFO - Downloading and processing data for GOOGL
+2025-03-26 17:39:05,719 - __main__ - ERROR - Data preparation failed: 'close'
+2025-03-26 17:43:13,940 - __main__ - INFO - Downloading and processing data for GOOGL
+2025-03-26 17:43:14,583 - __main__ - INFO - Data processed and saved to data/processed/GOOGL_2018-01-01_2023-01-01_processed.csv
+2025-03-26 17:43:14,604 - __main__ - INFO - Loaded processed data with shape (1059, 26)
+2025-03-26 17:43:14,635 - __main__ - INFO - Starting model training
+2025-03-26 17:43:17,409 - __main__ - ERROR - Model training failed: name 'train_lstm_model' is not defined
+2025-03-26 17:43:17,409 - __main__ - INFO - Making predictions with trained model
+2025-03-26 17:43:17,417 - __main__ - ERROR - Prediction failed: [Errno 2] No such file or directory: 'models/saved/lstm_model.pth'
+2025-03-26 17:43:17,419 - __main__ - INFO - Backtesting trading strategy
+2025-03-26 17:43:17,419 - __main__ - ERROR - Backtesting failed: cannot access local variable 'predictions' where it is not associated with a value
+2025-03-26 17:43:17,419 - __main__ - INFO - Trading system execution completed
+2025-03-26 17:50:36,255 - __main__ - INFO - Downloading and processing data for GOOGL
+2025-03-26 17:50:36,946 - __main__ - INFO - Data processed and saved to data/processed/GOOGL_2018-01-01_2023-01-01_processed.csv
+2025-03-26 17:50:36,959 - __main__ - INFO - Loaded processed data with shape (1059, 26)
+2025-03-26 17:50:36,961 - __main__ - INFO - Starting model training
+2025-03-26 17:50:38,275 - __main__ - ERROR - Model training failed: name 'nn' is not defined
+2025-03-26 17:50:38,275 - __main__ - INFO - Making predictions with trained model
+2025-03-26 17:50:38,278 - __main__ - ERROR - Prediction failed: [Errno 2] No such file or directory: 'models/saved/lstm_model.pth'
+2025-03-26 17:50:38,286 - __main__ - INFO - Backtesting trading strategy
+2025-03-26 17:50:38,289 - __main__ - ERROR - Backtesting failed: cannot access local variable 'predictions' where it is not associated with a value
+2025-03-26 17:50:38,289 - __main__ - INFO - Trading system execution completed
+2025-03-26 17:57:44,897 - __main__ - INFO - Downloading and processing data for GOOGL
+2025-03-26 17:57:45,803 - __main__ - INFO - Data processed and saved to data/processed/GOOGL_2018-01-01_2023-01-01_processed.csv
+2025-03-26 17:57:45,817 - __main__ - INFO - Loaded processed data with shape (1059, 26)
+2025-03-26 17:57:45,818 - __main__ - INFO - Starting model training
+2025-03-26 17:57:47,141 - __main__ - ERROR - Model training failed: name 'nn' is not defined
+2025-03-26 17:57:47,141 - __main__ - INFO - Making predictions with trained model
+2025-03-26 17:57:47,149 - __main__ - ERROR - Prediction failed: [Errno 2] No such file or directory: 'models/saved/lstm_model.pth'
+2025-03-26 17:57:47,150 - __main__ - INFO - Backtesting trading strategy
+2025-03-26 17:57:47,151 - __main__ - ERROR - Backtesting failed: cannot access local variable 'predictions' where it is not associated with a value
+2025-03-26 17:57:47,153 - __main__ - INFO - Trading system execution completed
+2025-03-26 17:59:12,989 - __main__ - INFO - Downloading and processing data for GOOGL
+2025-03-26 17:59:13,567 - __main__ - INFO - Data processed and saved to data/processed/GOOGL_2018-01-01_2023-01-01_processed.csv
+2025-03-26 17:59:13,579 - __main__ - INFO - Loaded processed data with shape (1059, 26)
+2025-03-26 17:59:13,581 - __main__ - INFO - Starting model training
+2025-03-26 17:59:14,928 - __main__ - ERROR - Model training failed: name 'x_device' is not defined
+2025-03-26 17:59:14,928 - __main__ - INFO - Making predictions with trained model
+2025-03-26 17:59:14,938 - __main__ - ERROR - Prediction failed: [Errno 2] No such file or directory: 'models/saved/lstm_model.pth'
+2025-03-26 17:59:14,939 - __main__ - INFO - Backtesting trading strategy
+2025-03-26 17:59:14,939 - __main__ - ERROR - Backtesting failed: cannot access local variable 'predictions' where it is not associated with a value
+2025-03-26 17:59:14,940 - __main__ - INFO - Trading system execution completed
+2025-03-26 18:03:26,488 - __main__ - INFO - Downloading and processing data for GOOGL
+2025-03-26 18:03:27,158 - __main__ - INFO - Data processed and saved to data/processed/GOOGL_2018-01-01_2023-01-01_processed.csv
+2025-03-26 18:03:27,168 - __main__ - INFO - Loaded processed data with shape (1059, 26)
+2025-03-26 18:03:27,172 - __main__ - INFO - Starting model training
+2025-03-26 18:03:38,638 - __main__ - INFO - Model trained and saved to models/saved/lstm_model.pth
+2025-03-26 18:03:38,638 - __main__ - INFO - Making predictions with trained model
+2025-03-26 18:03:38,649 - __main__ - ERROR - Prediction failed: 'params'
+2025-03-26 18:03:38,649 - __main__ - INFO - Backtesting trading strategy
+2025-03-26 18:03:38,649 - __main__ - ERROR - Backtesting failed: cannot access local variable 'predictions' where it is not associated with a value
+2025-03-26 18:03:38,649 - __main__ - INFO - Trading system execution completed
+2025-03-26 18:14:18,678 - __main__ - INFO - Downloading and processing data for GOOGL
+2025-03-26 18:14:19,438 - __main__ - INFO - Data processed and saved to data/processed/GOOGL_2018-01-01_2023-01-01_processed.csv
+2025-03-26 18:14:19,451 - __main__ - INFO - Loaded processed data with shape (1059, 26)
+2025-03-26 18:14:19,451 - __main__ - INFO - Starting model training
+2025-03-26 18:14:27,405 - __main__ - INFO - Model trained and saved to models/saved/lstm_model.pth
+2025-03-26 18:14:27,405 - __main__ - INFO - Making predictions with trained model
+2025-03-26 18:14:27,478 - __main__ - INFO - Model Performance Metrics:
+2025-03-26 18:14:27,478 - __main__ - INFO - MSE: 0.00043444515904411674
+2025-03-26 18:14:27,483 - __main__ - INFO - RMSE: 0.020843347534537315
+2025-03-26 18:14:27,488 - __main__ - INFO - MAE: 0.014839918352663517
+2025-03-26 18:14:27,488 - __main__ - INFO - Directional Accuracy: 0.4840764331210191
+2025-03-26 18:14:27,494 - __main__ - INFO - Correlation: 0.05950342863962265
+2025-03-26 18:14:27,494 - __main__ - ERROR - Prediction failed: 'seaborn-darkgrid' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2025-03-26 18:14:27,503 - __main__ - INFO - Backtesting trading strategy
+2025-03-26 18:14:27,508 - __main__ - INFO - Trading Strategy Performance:
+2025-03-26 18:14:27,514 - __main__ - INFO - Total Return: -0.2256
+2025-03-26 18:14:27,514 - __main__ - INFO - Annualized Return: -0.2895
+2025-03-26 18:14:27,523 - __main__ - INFO - Annualized Volatility: 0.3777
+2025-03-26 18:14:27,523 - __main__ - INFO - Sharpe Ratio: -0.7667
+2025-03-26 18:14:27,523 - __main__ - INFO - Max Drawdown: -0.3554
+2025-03-26 18:14:27,525 - __main__ - INFO - Win Rate: 0.3910
+2025-03-26 18:14:27,525 - __main__ - INFO - Profit Factor: 0.8493
+2025-03-26 18:14:30,753 - __main__ - INFO - Backtest results saved
+2025-03-26 18:14:30,753 - __main__ - INFO - Trading system execution completed
